@@ -47,7 +47,7 @@ console.log(23)
 
 3)How do you access the last element of any array?
 
-adding a minus sign infront of 1--- ages[ages.length() -1]
+adding a minus sign infront of -1 ages[ages.length() -1]
 
 4)How do you access the first element of any array?
 
@@ -133,7 +133,7 @@ Write a function called willBuyDrink that takes a boolean isHotOutside, and a nu
 if (isHotOutside && moneyInPocket >10.50) {
     return true
 } else [
-    return true
+    return false
 
 ]
 
@@ -145,3 +145,4 @@ WakeUp (time){
  } else {
         return false;
  
+        I used that function because everyone can relate to waking up early in the morning. The functio tells me if its after 7 we will wake up, if not we wont
